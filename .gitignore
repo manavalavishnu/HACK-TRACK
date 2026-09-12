@@ -1,3 +1,9 @@
 node_modules/
 .next/
 *.log
+build-manifest.json
+app-build-manifest.json
+fallback-build-manifest.json
+transform.js
+transform.js.map
+trace
